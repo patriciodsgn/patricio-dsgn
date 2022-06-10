@@ -35,9 +35,6 @@ JavaScript Developer
 | ![alt react](./icon/__javascript.svg "javascript") | JavaScript - Pokedex (pokeapi)                    | [https://github.com/patricio-dsgn/js-pokedex](https://github.com/patricio-dsgn/js-pokedex) |
 | ![alt react](./icon/__javascript.svg "javascript") | JavaScript - Contact From without backend         | [https://https//github.com/patricio-dsgn/js-php-forms](https://https//github.com/patricio-dsgn/js-php-forms) |
 | ![alt react](./icon/__javascript.svg "javascript") ![alt react](./icon/__php.svg "php") | JavaScript - Php - Forms | [https://https//github.com/patricio-dsgn/js-php-forms](https://https//github.com/patricio-dsgn/js-php-postalservice) |
-
-
-
 | --- | --- | --- |
 | ![alt react](./icon/__css.svg "css")               | CSS - CSS media queries                           | [https://github.com/patricio-dsgn/css-responsive](https://github.com/patricio-dsgn/css-responsive) |
 | --- | --- | --- |
