@@ -29,12 +29,8 @@ JavaScript Developer
 | ![alt react](./icon/__python.svg "python")         | Django - App for playlist                         | [https://github.com/patricio-dsgn/django-michify](https://github.com/patricio-dsgn/django-michify) |
 | ![alt react](./icon/__react.svg "react")           | ReactJS -                                         | [https://github.com/patricio-dsgn/react-rabbithole](https://github.com/patricio-dsgn/react-rabbithole) |
 | --- | --- | --- |
-| ![alt react](./icon/__deploy.svg "deploy")         | Deploy HTML in Heroku                             | [https://github.com/patricio-dsgn/deploy-heroku-ashetemeleh](https://github.com/patricio-dsgn/deploy-heroku-ashetemeleh) |
-| ![alt react](./icon/__deploy.svg "deploy")         | Deploy HTML in Vercel                             | [https://github.com/patricio-dsgn/deploy-vercel-ashetemelev](https://github.com/patricio-dsgn/deploy-vercel-ashetemelev) |
-| ![alt react](./icon/__deploy.svg "deploy")         | Deploy Djanjo in Heroku                           | [https://github.com/patricio-dsgn/deploy-heroku-yangou](https://github.com/patricio-dsgn/deploy-heroku-yangou) |
+| ![alt react](./icon/__deploy.svg "deploy")         | Deploy HTML in Heroku                             | [https://github.com/patricio-dsgn/deploy-heroku-ashetemele](https://github.com/patricio-dsgn/deploy-heroku-ashetemele) |
 | --- | --- | --- |
-| ![alt react](./icon/__code.svg "code")             | ...                                               | [https://github.com/patricio-dsgn/django-tabla](https://github.com/patricio-dsgn/django-tabla)|
-| ![alt react](./icon/__javascript.svg "javascript") | JavaScript - contact form without backend         | [https://github.com/patricio-dsgn/js-contact-form](https://github.com/patricio-dsgn/js-contact-form) |
 | ![alt react](./icon/__javascript.svg "javascript") | JavaScript -                                      | [https://github.com/patricio-dsgn/js-post-it](https://github.com/patricio-dsgn/js-post-it) |
 
 
