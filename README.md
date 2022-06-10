@@ -27,11 +27,11 @@ JavaScript Developer
 | ![alt react](./icon/__code.svg "languages")        | Guide languages                                   | [https://github.com/patricio-dsgn/code-sparks](https://github.com/patricio-dsgn/sparks) |
 | ![alt react](./icon/__python.svg "python")         | Django - App for analysis Poo                     | [https://github.com/patricio-dsgn/django-appoo](https://github.com/patricio-dsgn/django-appoo) |
 | ![alt react](./icon/__python.svg "python")         | Django - App for playlist                         | [https://github.com/patricio-dsgn/django-michify](https://github.com/patricio-dsgn/django-michify) |
-| ![alt react](./icon/__react.svg "react")           | ReactJS -                                         | [https://github.com/patricio-dsgn/react-rabbithole](https://github.com/patricio-dsgn/react-rabbithole) |
+| ![alt react](./icon/__react.svg "react")           | ReactJS - App about APIs                          | [https://github.com/patricio-dsgn/react-rabbithole](https://github.com/patricio-dsgn/react-rabbithole) |
 | --- | --- | --- |
 | ![alt react](./icon/__deploy.svg "deploy")         | Deploy HTML in Heroku                             | [https://github.com/patricio-dsgn/deploy-heroku-ashetemele](https://github.com/patricio-dsgn/deploy-heroku-ashetemele) |
 | --- | --- | --- |
-| ![alt react](./icon/__javascript.svg "javascript") | JavaScript -                                      | [https://github.com/patricio-dsgn/js-post-it](https://github.com/patricio-dsgn/js-post-it) |
+| ![alt react](./icon/__javascript.svg "javascript") | JavaScript - Show info like post-it               | [https://github.com/patricio-dsgn/js-post-it](https://github.com/patricio-dsgn/js-post-it) |
 
 
 
