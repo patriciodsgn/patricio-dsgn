@@ -12,9 +12,9 @@
 - Educational Design (Learning eXperience Design - LXD)
 
 ## Projects
-<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a src="https://github.com/patricio-dsgn/michify-v2">link</a><br>
-<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a src="https://github.com/patricio-dsgn/michify-v2">link</a><br>
-<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a src="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"/> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"/> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"/> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 
 <br>
 <br>
