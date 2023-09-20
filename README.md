@@ -1,6 +1,7 @@
 ## 🦊 🚀 💭 👾 
 # patricio-dsgn
 **Designer & Developer**
+
 *UXUI, Industrial Design, Python, JavaScript*
 
 ---
