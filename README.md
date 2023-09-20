@@ -18,7 +18,9 @@ JavaScript Developer
 
 - Educational Design (Learning eXperience Design - LXD)
 
-<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs
+<div style="display: flex;">
+  <img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs
+</div>
 
 <img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs
 
