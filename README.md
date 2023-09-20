@@ -16,6 +16,41 @@
 <img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"/> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 <img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"/> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 
+## Experimental
+
+<img style="display: inline;" src="./extras/logos/css-img-full.svg" width="25px"/> descriccion <br>
+<img style="display: inline;" src="./extras/logos/css-inputs.svg" width="25px"/> descriccion <br>
+<img style="display: inline;" src="./extras/logos/css-keyframes.svg" width="25px"/> descriccion <br>
+<img style="display: inline;" src="./extras/logos/css-pattern.svg" width="25px"/> descriccion <br>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+</td>
+</td>
+  </tr>
+  <tr>
+<img src="./extras/icon/__css.svg" width="25px"></td>
+</td>
+</td>
+  </tr>
+  <tr>
+<img src="./extras/icon/__css.svg" width="25px"></td>
+</td>
+</td>
+  </tr>
+  <tr>
+<img src="./extras/icon/__css.svg" width="25px">
+<img src="./extras/icon/__css.svg" width="25px"></td>
+</td>
+</td>
+  </tr>
+
+
+
 <br>
 <br>
 <br>
@@ -31,7 +66,6 @@
 <img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs
 
 
-## Experimental
 ---
 <table>
   <tr>
@@ -67,31 +101,6 @@
 
 
 
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/css-img-full.svg" width="40px"></td>
-    <td><img src="./extras/icon/__css.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/css-inputs.svg" width="40px"></td>
-    <td><img src="./extras/icon/__css.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/css-keyframes.svg" width="40px"></td>
-    <td><img src="./extras/icon/__css.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/css-pattern.svg" width="40px"></td>
-    <td><img src="./extras/icon/__css.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
   <tr>
     <td><img src="./extras/logos/css-responsive.svg" width="40px"></td>
     <td><img src="./extras/icon/__css.svg" width="25px"></td>
