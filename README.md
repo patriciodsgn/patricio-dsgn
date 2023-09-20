@@ -1,22 +1,16 @@
-# Patricio - dsgn
+# 🦊 🚀 💭 👾 
+# <span style="color:#f07;">patricio<span style="color:#f70;">-</span><span style="color:#70f;">dsgn</span>
+__Designer & Developer__
 
-🦊 🚀 💭 👾
-
-UXUI & Industrial Designer
-
-Fullstack Python
-
-JavaScript Developer
+UXUI, Industrial Design, Python, JavaScript
 
 ---
 
 - Fullstack Python, JavaScript and UX/UI Design
-
 - Multimedia and audiovisual development
-
 - Strategic and creative design (Design Thinking)
-
 - Educational Design (Learning eXperience Design - LXD)
+
 
 <div style="display: flex; flex:wrap; justify-content: center; align-items: center;">
   <img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>
