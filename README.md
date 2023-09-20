@@ -1,8 +1,7 @@
-# 🦊 🚀 💭 👾 
-# <span style="color:#f07;">patricio<span style="color:#f70;">-</span><span style="color:#70f;">dsgn</span>
-__Designer & Developer__
-
-UXUI, Industrial Design, Python, JavaScript
+## 🦊 🚀 💭 👾 
+# patricio-dsgn
+**Designer & Developer**
+*UXUI, Industrial Design, Python, JavaScript*
 
 ---
 
