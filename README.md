@@ -18,6 +18,10 @@ JavaScript Developer
 
 - Educational Design (Learning eXperience Design - LXD)
 
+![text](./extras/logos/pro-crece.svg){width=60%,height:30px}
+
+
+
 ---
 <table>
   <tr>
@@ -45,18 +49,14 @@ JavaScript Developer
 </table>
 ---
 ## Repositories Guide
-<table>
-  <tr>
-    <td>icon</td>
-    <td>lang</td>
-    <td>Description</td>
-    <td>Repo</td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/css-bootstrap-patch.svg" width="40px"></td>
-    <td><img src="./extras/icon/__css.svg" width="25px"></td>
-    <td></td>
-    <td></td>
+
+<span><img src="./extras/logos/css-bootstrap-patch.svg" width="30px"></span>parche para bootstrap<img src="./extras/icon/__css.svg" width="25px">
+
+
+<br>
+
+
+
   </tr>
   <tr>
     <td><img src="./extras/logos/css-img-full.svg" width="40px"></td>
