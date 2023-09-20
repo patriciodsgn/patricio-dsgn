@@ -18,7 +18,7 @@
 
 ## Experimental
 
-### css <img src="./extras/icon/__css.svg" width="25px">
+### <img src="./extras/icon/__css.svg" width="25px"> css
 <img style="display: inline;" src="./extras/logos/css-img-full.svg" width="25px"/> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 <img style="display: inline;" src="./extras/logos/css-inputs.svg" width="25px"/> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 <img style="display: inline;" src="./extras/logos/css-keyframes.svg" width="25px"/> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
@@ -27,12 +27,11 @@
 <img style="display: inline;" src="./extras/logos/css-responsive.svg" width="25x"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 <img style="display: inline;" src="./extras/logos/css-text-bg.svg" width="25x"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 
-### html <img src="./extras/icon/__html.svg" width="25px">
+### <img src="./extras/icon/__html.svg" width="25px"> html
 <img style="display: inline;" src="./extras/logos/html-responsive-img.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 
 
-### js
-<img style="display: inline;" src="./extras/icon/__javascript.svg" width="25px">
+### <img style="display: inline;" src="./extras/icon/__javascript.svg" width="25px"> js
 <img style="display: inline;" src="./extras/logos/js-animations-flash.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 <img style="display: inline;" src="./extras/logos/js-big-text.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 <img style="display: inline;" src="./extras/logos/js-lazyloading.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
