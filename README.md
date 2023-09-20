@@ -18,13 +18,31 @@
 
 ## Experimental
 
-<img style="display: inline;" src="./extras/logos/css-img-full.svg" width="25px"/> descriccion <br>
-<img style="display: inline;" src="./extras/logos/css-inputs.svg" width="25px"/> descriccion <br>
-<img style="display: inline;" src="./extras/logos/css-keyframes.svg" width="25px"/> descriccion <br>
-<img style="display: inline;" src="./extras/logos/css-pattern.svg" width="25px"/> descriccion <br>
+### css <img src="./extras/icon/__css.svg" width="25px">
+<img style="display: inline;" src="./extras/logos/css-img-full.svg" width="25px"/> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/css-inputs.svg" width="25px"/> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/css-keyframes.svg" width="25px"/> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/css-pattern.svg" width="25px"/> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/css-bootstrap-patch.svg" width="25x"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/css-responsive.svg" width="25x"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/css-text-bg.svg" width="25x"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+
+### html <img src="./extras/icon/__html.svg" width="25px">
+<img style="display: inline;" src="./extras/logos/html-responsive-img.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 
 
-<br>
+### js
+<img style="display: inline;" src="./extras/icon/__javascript.svg" width="25px">
+<img style="display: inline;" src="./extras/logos/js-animations-flash.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/js-big-text.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/js-lazyloading.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/js-parallax.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/js-post-it.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/js-ruler.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+<img style="display: inline;" src="./extras/logos/js-tooltip.svg" width="25px"> descriccion <a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
+
+
+<a href="https://github.com/patricio-dsgn/michify-v2">link</a><br>
 <br>
 <br>
 <br>
@@ -94,70 +112,15 @@
 ---
 ## Repositories Guide
 
-<span><img src="./extras/logos/css-bootstrap-patch.svg" width="30px"></span>parche para bootstrap<img src="./extras/icon/__css.svg" width="25px">
 
-
-<br>
-
-
-
+    <td></td>
+  </tr>
   <tr>
-    <td><img src="./extras/logos/css-responsive.svg" width="40px"></td>
-    <td><img src="./extras/icon/__css.svg" width="25px"></td>
+    
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="./extras/logos/css-text-bg.svg" width="40px"></td>
-    <td><img src="./extras/icon/__css.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/html-responsive-img.svg" width="40px"></td>
-    <td><img src="./extras/icon/__html.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/js-animations-flash.svg" width="40px"></td>
-    <td><img src="./extras/icon/__javascript.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/js-big-text.svg" width="40px"></td>
-    <td><img src="./extras/icon/__javascript.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/js-lazyloading.svg" width="40px"></td>
-    <td><img src="./extras/icon/__javascript.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/js-parallax.svg" width="40px"></td>
-    <td><img src="./extras/icon/__javascript.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/js-post-it.svg" width="40px"></td>
-    <td><img src="./extras/icon/__javascript.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/js-ruler.svg" width="40px"></td>
-    <td><img src="./extras/icon/__javascript.svg" width="25px"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./extras/logos/js-tooltip.svg" width="40px"></td>
-    <td><img src="./extras/icon/__javascript.svg" width="25px"></td>
     <td></td>
     <td></td>
   </tr>
