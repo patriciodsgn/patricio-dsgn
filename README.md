@@ -18,9 +18,9 @@ JavaScript Developer
 
 - Educational Design (Learning eXperience Design - LXD)
 
-![text](./extras/logos/pro-crece.svg){width=60%,height:30px}
+<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs
 
-
+<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs
 
 ---
 <table>
