@@ -21,10 +21,10 @@ JavaScript Developer
 ---
 <table>
   <tr>
-    <td><img src="./extras/logos/pro-crece.svg" width="100px"></td>
-    <td><img src="./extras/logos/pro-bosque.svg" width="100px"></td>
-    <td><img src="./extras/logos/pro-block.svg" width="100px"></td>
-    <td><img src="./extras/logos/pro-books.svg" width="100px"></td>
+    <td><a src="https://github.com/patricio-dsgn/michify-v2"><img src="./extras/logos/pro-crece.svg" width="100px"></a></td>
+    <td><a src="https://github.com/patricio-dsgn/michify-v2"><img src="./extras/logos/pro-bosque.svg" width="100px"></a></td>
+    <td><a src="https://github.com/patricio-dsgn/michify-v2"><img src="./extras/logos/pro-block.svg" width="100px"></a></td>
+    <td><a src="https://github.com/patricio-dsgn/michify-v2"><img src="./extras/logos/pro-books.svg" width="100px"></a></td>
   </tr>
   <tr>
 <td><img src="./extras/logos/pro-bosque.svg" width="100px"></td>
