@@ -51,7 +51,7 @@
 <img style="display: inline;" src="./extras/logos/js-tooltip.svg" width="25px"> descriccion <a href="#">link</a><br>
 
 ## Laboratory <img style="display: inline;" src="./extras/logos/lab.svg" width="20px">
-<img style="display: inline;" src="./extras/logos/lab.svg" width="25px"> python-dalecolor <a href="https://github.com/patricio-dsgn/python-dalecolor/">link</a><br>
+<img style="display: inline;" src="./extras/logos/lab.svg" width="25px"> python-dalecolor <img style="display: inline;" src="./extras/icon/__python.svg" width="20px"> <a href="https://github.com/patricio-dsgn/python-dalecolor/">link</a><br>
 <img style="display: inline;" src="./extras/logos/lab.svg" width="25px"> js-php-forms <img style="display: inline;" src="./extras/icon/__javascript.svg" width="20px"> <a href="https://github.com/patricio-dsgn/js-php-postalservice/">link</a><br>
 <img style="display: inline;" src="./extras/logos/lab.svg" width="25px"> js-php-forms <img style="display: inline;" src="./extras/icon/__javascript.svg" width="20px"> <a href="#">link</a><br>
 
