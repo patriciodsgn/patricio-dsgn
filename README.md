@@ -1,4 +1,4 @@
-## 🦊 🚀 💭 👾 
+🦊 🚀 💭 👾 
 # patricio-dsgn
 **Designer & Developer**
 
