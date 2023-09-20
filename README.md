@@ -19,15 +19,30 @@ JavaScript Developer
 - Educational Design (Learning eXperience Design - LXD)
 
 ---
-
-<img src="./extras/logos/pro-crece.svg" width="100px">
-Educational Design (Learning eXperience Design - LXD)
-
-<br>
-<br>
-<img src="./extras/logos/pro-bosque.svg" width="100px">
-Educational Design (Learning eXperience Design - LXD)
-
+<table>
+  <tr>
+    <td><img src="./extras/logos/pro-crece.svg" width="100px"></td>
+    <td><img src="./extras/logos/pro-bosque.svg" width="100px"></td>
+    <td><img src="./extras/logos/pro-block.svg" width="100px"></td>
+    <td><img src="./extras/logos/pro-books.svg" width="100px"></td>
+  </tr>
+  <tr>
+<td><img src="./extras/logos/pro-bosque.svg" width="100px"></td>
+<td><img src="./extras/logos/pro-bot.svg" width="100px"></td>
+<td><img src="./extras/logos/pro-catalogue.svg" width="100px"></td>
+<td><img src="./extras/logos/pro-crece.svg" width="100px"></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+<td><img src="./extras/logos/pro-explore.svg" width="100px"></td>
+<td><img src="./extras/logos/pro-md.svg" width="100px"></td>
+<td><img src="./extras/logos/pro-play.svg" width="100px"></td>
+<td><img src="./extras/logos/pro-source-invaders.svg" width="100px"></td>
+  </tr>
+  <tr>
+  </tr>
+</table>
 ---
 ## Repositories Guide
 <table>
