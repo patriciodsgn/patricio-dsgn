@@ -20,11 +20,20 @@ JavaScript Developer
 
 ---
 
+<img src="./extras/logos/pro-crece.svg" width="100px">
+Educational Design (Learning eXperience Design - LXD)
+
+<br>
+<br>
+<img src="./extras/logos/pro-bosque.svg" width="100px">
+Educational Design (Learning eXperience Design - LXD)
+
+---
 ## Repositories Guide
 <table>
   <tr>
-    <td>lang</td>
     <td>icon</td>
+    <td>lang</td>
     <td>Description</td>
     <td>Repo</td>
   </tr>
