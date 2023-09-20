@@ -11,6 +11,13 @@
 - Strategic and creative design (Design Thinking)
 - Educational Design (Learning eXperience Design - LXD)
 
+## Projects
+<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a src="https://github.com/patricio-dsgn/michify-v2">link</a>
+<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a src="https://github.com/patricio-dsgn/michify-v2">link</a>
+<img style="display: inline;" src="./extras/logos/pro-crece.svg" width="50px"> fhgajd fgaf gjaf kajgfjkadj kkjadjkj <a src="https://github.com/patricio-dsgn/michify-v2">link</a>
+
+
+
 
 <div style="display: flex; flex:wrap; justify-content: center; align-items: center;">
   <img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs<img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>
@@ -20,6 +27,8 @@
 
 <img width="30px" src="./extras/logos/css-img-full.svg" alt="alt text" title="image Title" style="display: inline;"/>csccs
 
+
+## Experimental
 ---
 <table>
   <tr>
