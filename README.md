@@ -29,6 +29,7 @@
 <a href="https://github.com/patricio-dsgn/css-textbg/"><img style="display: inline;" src="./readme/development/css-textbg.svg" width="25px"> css-textbg</a><br>
 
 <br>
+<a href="https://github.com/patricio-dsgn/js-keycodes/"><img style="display: inline;" src="./readme/development/js-keycodes.svg" width="25px"> js-keycodes</a><br>
 <a href="https://github.com/patricio-dsgn/js-async/"><img style="display: inline;" src="./readme/development/js-async.svg" width="25px"> js-async</a><br>
 <a href="https://github.com/patricio-dsgn/js-dalecolor/"><img style="display: inline;" src="./readme/development/js-dalecolor.svg" width="25px"> js-dalecolor</a><br>
 <a href="https://github.com/patricio-dsgn/js-method/"><img style="display: inline;" src="./readme/development/js-method.svg" width="25px"> js-method</a><br>
